@@ -1,8 +1,9 @@
 <?php
 /* 
 Test file.
-Last edir by FK, 03/10/2018 - 13:34
+Last edit by FK, 27/08/2019 - 13:34
 */
 echo "this is a test";
 echo "Hello World!";
+echo "PHPStorm GIT Commit"
 ?>
